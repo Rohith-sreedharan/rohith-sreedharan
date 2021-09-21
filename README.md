@@ -1,4 +1,83 @@
-<h1 align="center">Hi 👋, I'm Rohith-Sreedharan</h1>
+## Rohith SV
+
+[![SVG Typing](https://mdtype.herokuapp.com?lines=Hello%2C+I+am+Rohith+as+Rohithaditya;Noob+Developer+%E2%9D%A4%EF%B8%8F;Pero+in+telegram+bot)](https://github.com/Rohith-sreedharan)
+ 
+```
+ps Follow Me 😜
+```
+
+<h3 align="left">😌 Something About Me:</h3>
+ 
+<kbd>▪️</kbd>🏷️ I'm Rohithaditya 😎
+
+<kbd>▪️</kbd>🏘️ I am From Salem (TamilNadu) , India 🇮🇳 🏜️
+
+<kbd>▪️</kbd>🎓 I am studing In Sri Vidya MAndir Sr sec school 💐
+
+<kbd>▪️</kbd>🖥️ Currently Learning Python, ruby etc....🍌
+
+<kbd>▪️</kbd>🔭 I'm collaborating in more private or public repositories and organizations
+
+<kbd>▪️</kbd>🗣️ I know [English](https://google.com/search?q=English), [Tamil](https://google.com/search?q=Tamil) and [Python](https://google.com/search?q=python) Languages
+
+<kbd>▪️</kbd>🎂 This Noob Was Borned in 11/11/2004
+ 
+<h3 align="left">🔨 Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.python.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
+        />
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
+        />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
+        />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+        />
+    </a>
+    <a href="https://mongodb.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
+        />
+    </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
+        />
+    </a>
+    <a href="https://json.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
+        />
+    </a>
+</p>
+
+<h3 align="left">👤 My Social Accouns:</h3>
+<p align="left">
+
+    <a href="https://github.com/rohith-sreedharan">
+        <img
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+            alt="GitHub"
+        >
+    </a>
+    <a href="https://telegram.me/rohithaditya">
+        <img
+            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
+            alt="Telegram"
+        >
+    </a>
+</p>
+ 
 <h3 align="center">A Tensed backend And Partial Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith-sreedharan&label=Profile%20views&color=0e75b6&style=flat" alt="rohith-sreedharan" /> </p>
