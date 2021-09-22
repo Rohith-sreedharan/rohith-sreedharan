@@ -1,6 +1,6 @@
 ## Rohith SV
 
-[![SVG Typing](https://mdtype.herokuapp.com?lines=Hello%2C+I+am+Rohith+as+Rohithaditya;Noob+Developer+%E2%9D%A4%EF%B8%8F;Pero+in+telegram+bot)](https://github.com/Rohith-sreedharan)
+[![SVG_Typing](https://mdtype.herokuapp.com?lines=Hello%2C+I+am+Rohith+as+Rohithaditya;Noob+Developer+%E2%9D%A4%EF%B8%8F;Pero+in+telegram+bot)](https://github.com/Rohith-sreedharan)
  
 ```
 ps Follow Me 😜
