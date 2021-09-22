@@ -63,7 +63,7 @@ ps Follow Me 😜
 
 <h3 align="left">👤 My Social Accouns:</h3>
 <p align="left">
-
+<div>
     <a href="https://github.com/rohith-sreedharan">
         <img
             src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
