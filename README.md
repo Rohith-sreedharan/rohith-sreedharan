@@ -99,11 +99,11 @@ ps Follow Me 😜
 
 - 🤝 I’m looking for help with [GODHACKERZ USERBOT](https://github.com/sprin-g-reen/Godhackerz-userbot)
 
-- 📝 I regularly write articles on [www.telegram.me/its_rohithaditya](www.telegram.me/its_rohithaditya)
+- 📝 I regularly write articles on [telegram](www.telegram.me/itz_rohithaditya)
 
 - 💬 Don't Ask me about **Java Script**
 
-- 📫 Reach Me In Telegram **rohithaditya(https://telegram.me/rohithaditya)**
+- 📫 Reach Me In Telegram **[rohithaditya](https://telegram.me/rohithaditya)**
 
 - ⚡ Fun fact **People Call Me Pro but I am noob**
 
