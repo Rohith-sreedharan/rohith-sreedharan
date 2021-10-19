@@ -126,3 +126,5 @@ ps Follow Me 😜
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith-sreedharan&show_icons=true&locale=en" alt="rohith-sreedharan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-sreedharan&" alt="rohith-sreedharan" /></p>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
