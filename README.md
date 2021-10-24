@@ -126,5 +126,16 @@ ps Follow Me 😜
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith-sreedharan&show_icons=true&locale=en" alt="rohith-sreedharan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-sreedharan&" alt="rohith-sreedharan" /></p>
-
+ 
+## HERE IS A JOKE FOR YOU
+ 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+ ## SOME INFO
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohith-sreedharan&theme=github) 
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohith-sreedharan&theme=github)
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohith-sreedharan&theme=github)
+ <br>
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohith-sreedharan&theme=github) 
