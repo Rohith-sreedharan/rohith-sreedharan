@@ -12,7 +12,7 @@ ps Follow Me 😜
 
 <kbd>▪️</kbd>🏘️ I am From Salem (TamilNadu) , India 🇮🇳 🏜️
 
-<kbd>▪️</kbd>🎓 I am studing In Sri Vidya MAndir Sr sec school 💐
+<kbd>▪️</kbd>🎓 I am studing In Sri Vidya Mandir Sr sec school 💐
 
 <kbd>▪️</kbd>🖥️ Currently Learning Python, ruby etc....🍌
 
