@@ -129,7 +129,7 @@ ps Follow Me 😜
  
 ## HERE IS A JOKE FOR YOU
  
-![Jokes Card](https://readme-jokes.vercel.app/api)
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 
  ## SOME INFO
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohith-sreedharan&theme=github) 
