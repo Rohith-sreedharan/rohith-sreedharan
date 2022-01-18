@@ -97,7 +97,7 @@ ps Follow Me 😜
 
 - 👯 I’m looking to collaborate on **Any Projects**
 
-- 🤝 I’m looking for Empolyees In [Springreen](http://www.botsuniverse.live)
+- 🤝 I’m looking for Empolyees In [Springreen](http://botsuniverse.live/)
 
 - 📝 I regularly write articles on [telegram](www.telegram.me/itz_rohithaditya)
 
