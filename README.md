@@ -10,7 +10,7 @@ ps Follow Me 😜
  
 <kbd>▪️</kbd>🏷️ I'm [Rohithaditya](https://google.com/search?q=Rohithaditya) 😎
 
-<kbd>▪️</kbd>🏘️ I am From Salem (TamilNadu) , India 🇮🇳 🏜️
+<kbd>▪️</kbd>🏘️ I am From TamilNadu , India 🇮🇳 🏜️
 
 <kbd>▪️</kbd>🎓 I am studing In Sri Vidya Mandir Sr sec school 💐
 
