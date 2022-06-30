@@ -125,7 +125,7 @@ Focus On Your Codes...
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith-sreedharan&show_icons=true&locale=en" alt="rohith-sreedharan" /></p>
 
-<p>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohith-Sreedharan&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&border=8636DD&stroke=DDDDDD)](https://git.io/streak-stats)</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohith-Sreedharan&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&border=8636DD&stroke=DDDDDD)](https://git.io/streak-stats)
  
 ## HERE IS A JOKE FOR YOU
  
